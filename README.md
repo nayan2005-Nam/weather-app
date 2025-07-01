@@ -22,3 +22,18 @@ A simple yet powerful Weather App built with Python that fetches real-time weath
 | OpenWeatherMap   | Weather data API                 |
 | JSON             | Parsing API response             |
 
+- Get your API key
+- Sign up at OpenWeatherMap
+- Generate your API key
+
+-  How It Works
+- User enters a city name.
+- The app sends a request to the OpenWeatherMap API.
+- The API returns weather data in JSON format.
+- The app parses and displays the data in a readable format.
+
+
+
+
+
+
